@@ -6,3 +6,4 @@ node_modules/
 test-results/
 pillars-notion-import-*.json
 notion-source-*.json
+pillars-block-update-*.json
